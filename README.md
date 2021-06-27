@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter application.
+ Flutter - Dart app practice. This app displays the time in different cities in the world 
 
 ## Getting Started
 
